@@ -12,4 +12,10 @@ LazyData: true
 Imports:
     dplyr,
     stringr,
-    httr
+    httr,
+    magrittr
+Suggests:
+    testthat,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
