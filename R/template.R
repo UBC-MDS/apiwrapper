@@ -8,6 +8,7 @@
 #' template_get(42, "math")
 #'
 #' @import dplyr
+#' @importFrom magrittr "%>%"
 #' @import stringr
 #' @import httr
 #'
