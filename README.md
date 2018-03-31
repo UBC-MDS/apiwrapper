@@ -9,8 +9,7 @@ Individual test files [here](./tests/testthat/)
 
 Below
 
-#### Install
-
+#### Install directly from Github
 ``` r
-install_github("UBC-MDS/apiwrapper")
+devtools::install_github("UBC-MDS/apiwrapper")
 ```
