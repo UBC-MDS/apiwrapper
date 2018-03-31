@@ -5,7 +5,7 @@
 #'
 #' @return The a fact about \code{num} in \code{type} category.
 #' @examples
-#' template_get(42, "math")
+#' template(42, "math")
 #'
 #' @import dplyr
 #' @importFrom magrittr "%>%"
